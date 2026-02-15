@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@theme {
+  /* Brown / editorial palette (Pixels-inspired) */
+  --color-background: #faf8f6;
+  --color-surface: #f5f1ec;
+  --color-primary: #5c4033;
+  --color-primary-light: #8b6f47;
+  --color-accent: #a67c52;
+  --color-accent-light: #c4a574;
+  --color-muted: #6b5d52;
+  --color-text: #2d2520;
+  --color-text-soft: #5c5048;
+  --color-dark: #1a1614;
+  --color-dark-surface: #252019;
+  /* Fonts */
+  --font-display: "Syne", system-ui, sans-serif;
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-body: "DM Sans", system-ui, sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply antialiased;
+    font-family: var(--font-body);
+    color: var(--color-text);
+    background-color: var(--color-background);
+  }
+  h1, h2, h3 {
+    font-family: var(--font-display);
+  }
+}
+
+/* Horizontal scroll section */
+.scroll-snap-x {
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+.scroll-snap-x > * {
+  scroll-snap-align: start;
+}

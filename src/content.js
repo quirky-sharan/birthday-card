@@ -1,0 +1,123 @@
+// Edit this file to personalize the site: name, tagline, value points, memories, and letter.
+
+export const name = "Kalyani";
+export const tagline = "A little corner of the internet just for you.";
+export const heroSubtext = "Yes, I coded this. No, I will not touch grass. You're worth it.";
+
+// Add your birthday song to the public folder as song.mp3.
+export const birthdaySongSrc = "/song.mp3";
+
+export const valuePoints = [
+  { title: "Your laugh", description: "It lights up every room.", emoji: "✨" },
+  { title: "Your support", description: "You're always there when it matters.", emoji: "🤝" },
+  { title: "Your kindness", description: "You make everyone feel seen.", emoji: "💛" },
+  { title: "Your friendship", description: "I'm so grateful for you.", emoji: "🌸" },
+  { title: "Your smile", description: "Instant mood boost. Every time.", emoji: "😊" },
+  { title: "Your texts", description: "The highlight of my notifications.", emoji: "📱" },
+  { title: "Your honesty", description: "You keep it real and I love that.", emoji: "💬" },
+  { title: "Your weird takes", description: "They're not weird, they're iconic.", emoji: "🫠" },
+  { title: "Your patience", description: "Especially when I'm being a lot.", emoji: "🙏" },
+  { title: "Your playlists", description: "You get the vibe. Always.", emoji: "🎵" },
+  { title: "Your memes", description: "You send the best ones. Facts.", emoji: "😂" },
+  { title: "Your voice", description: "Could listen to you talk for hours.", emoji: "🎤" },
+  { title: "Your hugs", description: "Best kind of therapy.", emoji: "🫂" },
+  { title: "Your chaos", description: "Matches mine. We're a mess together.", emoji: "🌀" },
+  { title: "Your calm", description: "When you're the voice of reason.", emoji: "🌙" },
+  { title: "Your ambition", description: "Watching you go for it is inspiring.", emoji: "🚀" },
+  { title: "Your silliness", description: "When we act like idiots and it's perfect.", emoji: "🤪" },
+  { title: "Your loyalty", description: "You've got my back. I've got yours.", emoji: "🛡️" },
+  { title: "Your hot takes", description: "Never a dull moment.", emoji: "🔥" },
+  { title: "Your presence", description: "Everything's better when you're around.", emoji: "⭐" },
+  { title: "Your rants", description: "I could listen to you vent forever.", emoji: "🗣️" },
+  { title: "Your taste", description: "In food, music, everything. Chef's kiss.", emoji: "👌" },
+  { title: "Your stubbornness", description: "Annoying sometimes. Cute always.", emoji: "😤" },
+  { title: "Your vulnerability", description: "You trust me with the real stuff.", emoji: "💜" },
+  { title: "Your hype", description: "You hype me up when I need it most.", emoji: "📢" },
+  { title: "Your silence", description: "Comfortable silence with you hits different.", emoji: "🤫" },
+  { title: "Your energy", description: "Infectious. In a good way.", emoji: "⚡" },
+  { title: "Your face", description: "Yeah I said it. You're gorgeous.", emoji: "😌" },
+  { title: "Your mind", description: "The way you think fascinates me.", emoji: "🧠" },
+  { title: "Your sarcasm", description: "We speak the same language.", emoji: "😏" },
+  { title: "Your dreams", description: "I want to see you achieve all of them.", emoji: "🌠" },
+  { title: "Your comfort", description: "You feel like home.", emoji: "🏠" },
+  { title: "Your anger", description: "Even when you're mad you're kinda cute.", emoji: "😠" },
+  { title: "Your curiosity", description: "You ask the best questions.", emoji: "🔍" },
+  { title: "Your courage", description: "You're braver than you know.", emoji: "🦁" },
+  { title: "Your randomness", description: "Never know what you'll say next. Love it.", emoji: "🎲" },
+  { title: "Your cooking", description: "Or your willingness to try. Either way.", emoji: "🍳" },
+  { title: "Your photos", description: "You take the best candids.", emoji: "📸" },
+  { title: "Your puns", description: "Even the bad ones make me smile.", emoji: "🦗" },
+  { title: "Your sleepiness", description: "When you're half awake and still texting.", emoji: "😴" },
+  { title: "Your excitement", description: "When you get excited about something small.", emoji: "🥹" },
+  { title: "Your opinions", description: "You're not afraid to have them.", emoji: "✊" },
+  { title: "Your growth", description: "Watching you become who you are.", emoji: "🌱" },
+  { title: "Your inside jokes", description: "Nobody else would get it. We do.", emoji: "🤐" },
+  { title: "Your reliability", description: "When you say you'll be there, you are.", emoji: "✅" },
+  { title: "Your spontaneity", description: "Last-minute plans with you are the best.", emoji: "🎉" },
+  { title: "Your empathy", description: "You feel with people. It's rare.", emoji: "💕" },
+  { title: "Your weird sleep schedule", description: "We're both broken. Together.", emoji: "🦉" },
+  { title: "Your existence", description: "The fact that you're in this world.", emoji: "🌍" },
+  { title: "Your trust", description: "You let me in. I don't take that lightly.", emoji: "🔐" },
+  { title: "Your future", description: "I want to be part of it.", emoji: "🔮" },
+  { title: "Your past", description: "Every story you've shared with me.", emoji: "📖" },
+  { title: "Your present", description: "Right now. You're here. That's everything.", emoji: "⏳" },
+  { title: "Your heart", description: "The whole thing. All of it.", emoji: "❤️" },
+  { title: "You", description: "Just you. All of you.", emoji: "🫶" },
+];
+
+export const valueSectionClosing =
+  "There's a lot more reasons but I'm just tired atp... uk the rest how much I adore u";
+
+// Photos in public folder: Photo1, Photo2, ... Photo6 (JPEG). Set image to null to hide photo for that memory.
+// lovedMost = what you loved most about that moment
+export const memories = [
+  {
+    title: "Our Farewell",
+    description: "The day we chose to still talk and continue our friendship",
+    lovedMost: "That we didn't let our distance come between us and thats what made me feel so special.",
+    image: "/Photo1.jpeg",
+  },
+  {
+    title: "That night dinner we had ?",
+    description: "Best dinner ever.",
+    lovedMost: "Getting lost with you was better than doing anything else that night. I had so much fun and it was one of the best nights ever. (ps ik the image is weird and blurry but u didnt gimme any of our or your pics so here we are)",
+    image: "/Photo2.jpeg",
+  },
+  {
+    title: "Your SLAYYY",
+    description: "Some of my favourite moments are just us talking for hours. Having deep conversations, sharing memes, or just being silly and stupid aff togehter. But all in that what counts was your role in that.",
+    lovedMost: "You sometimes feel underconfident and tbh idk why and i hate it when that happens because youuuu my girliee SLAYYYYYY and i mean it. Not cus its your bday but i mean i truly. It aches my heart to see you underconfident like you are wayy moer prettier than you think you are. TRUST MEEEE BITCH !!!!!",
+    image: "/Photo3.jpeg",
+  },
+  {
+    title: "Megan fox curves ?",
+    description: "Your curves are pretty ok ? THEY ARE !!",
+    lovedMost: "Your face when something good happens. Pure joy. Your expression and laughter, pure bliss. I love every part of you, be it your physical self or your stupid ass braincells. LOVE EM WHOLE. CUS U WHOLESOME MAHH BITCHH",
+    image: "/Photo4.jpeg",
+  },
+  {
+    title: "Random laughs",
+    description: "You see how stupppiiiidddd your ass is smiling and blushing ???? I want exactly that for you, forever. I mean it.",
+    lovedMost: "Your presence. I really mean it. All those maggi eating compeition, or stupid who can make the other ragebait faster, or cry (hah ! winning that one till this day), our debates about stuff. EVERYTHING !!! Every memory with you was great Kalyani.",
+    image: "/Photo5.jpeg",
+  },
+  {
+    title: "Future plans",
+    description: "So many things we still want to do together. Can't wait. SERIOUSLYY CANT WAITTT !!!!! AGHH !!!",
+    lovedMost: "That we're already planning the next ones. And if u didnt meet me the next time imma kill you for sure. Not even kidding atp. So we better have a night like drunk people and have heck of fun",
+    image: "/Photo6.jpeg",
+  },
+];
+
+export const letterParagraphs = [
+  "Happy birthday! I wanted to make something a little different this year — a small place on the internet that's just for you. (And yes, I stayed up late coding this. You're welcome.)",
+  "You mean so much to me. Your laugh, your support, your kindness, and your friendship have made my life brighter in ways I can't put into words. Also your memes. And your voice. And the way you get excited about small things. Okay I'll stop before this gets too long—",
+  "I put together some of our memories here because every one of them matters to me. From the big adventures to the quiet moments, I treasure all of it. Even the times we did nothing and it was still the best day.",
+  "I hope this year brings you everything you wish for and more. You deserve the world. Thank you for being you, and for being in my life. And for not blocking me when I send too many messages.",
+  "I love you. Have the happiest birthday. Now go eat cake and think about how great you are.",
+];
+
+export const closingText = "I love you. Happy birthday again.";
+export const closingSubtext = "Scroll up to read the letter again, or just sit here for a bit. This page is yours. (No ads, no paywall. Just you and me.)";
+
+export const footerCute = "P.S. If you're reading this, you've officially been on this page too long. Go celebrate. 🎂";
