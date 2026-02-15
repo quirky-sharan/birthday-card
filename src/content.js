@@ -110,11 +110,51 @@ export const memories = [
 ];
 
 export const letterParagraphs = [
-  "Happy birthday! I wanted to make something a little different this year — a small place on the internet that's just for you. (And yes, I stayed up late coding this. You're welcome.)",
-  "You mean so much to me. Your laugh, your support, your kindness, and your friendship have made my life brighter in ways I can't put into words. Also your memes. And your voice. And the way you get excited about small things. Okay I'll stop before this gets too long—",
-  "I put together some of our memories here because every one of them matters to me. From the big adventures to the quiet moments, I treasure all of it. Even the times we did nothing and it was still the best day.",
-  "I hope this year brings you everything you wish for and more. You deserve the world. Thank you for being you, and for being in my life. And for not blocking me when I send too many messages.",
-  "I love you. Have the happiest birthday. Now go eat cake and think about how great you are.",
+  "Happy birthday kalyaniiiiiiiiii my literal fav human on this planet 🌎💗 i swear if anyone else reads this they should know u belong to me ok thankyou very much 😌💞",
+
+"I dont even know where to start because there is TOO MUCH to say and my brain is doing dhum tana nana just thinking about u 😭💘 but first of all i adore u like actually adore u not in a cute dramatic way but in a real i want u in my life till we are old and wrinkly and still gossiping way 👵👵💖",
+
+"You are my bestfriend my safe place my home my emergency contact my therapist my clown my everythingggg 😭🫶 and i never ever wanna let u go like ever even if u try to run away i will catch u by ur stupid assss (which is fine btw) and drag u back",
+
+"U dont even realise how amazing u are its actually annoying sometimes like hello miss underconfident for what reason exactly ??? have u seen urself ??? u are hella pretty like unfairly pretty and those color changing eyes of urs ??? bro what even are those they literally shift shades and look magical and im just sitting there like 😵‍💫💘 and u be like NO ITS NOT COLOR CHANGINGG>...... BITTTTCHHH IT FUCKING ISS !!!",
+
+"And the way u laugh oh my god the way u laugh when we ragebait each other on purpose just to see who gets more dramatic 😭😭 i love that we purposely trigger each other and then burst out laughing two seconds later we are actually unhinged and i wouldnt change that for anything frr not even kidding atp",
+
+"I miss us having maggi together so much its criminal 🍜💔 like the cheap masala maggi that tasted better because we were bunking classes and pretending we had important work to do (important work = judging everyone and doing nothing) and i miss us bitching about our english teacher like we were running a news channel and specially the debate part like tf was that... nimbo mirchi and sola eclipse theory was shit assss !!",
+
+"Especially looking down from that place at our english teacher at school acting all innocent while lowkey roasting everything she said 😭😭 i swear we were so bad but also iconic like main character energy always",
+
+"And dont even get me started on dhruv 😒 the way i hate him and the way u purposely say his name just to piss me off i will actually fight u one day but also its funny and i cant even stay mad because u start laughing and then i start laughing and then we are back to being idiots again",
+
+"You have always been there for me through everything the ugly cries the overthinking the random breakdowns when my stupid ass lost money to a scammer being a engineer and that too in cs and and and the drama the chaos the late night rants the i hate everyone days and the i miss everyone days and i dont think i say this enough but i need u like actually need u",
+
+"There are so many times when i feel lost and then i talk to u and suddenly things feel lighter and i feel understood and seen and heard and thats such a rare thing and u do it so effortlessly like its nothing but its everything to me",
+
+"I want u to know that no matter what happens where life takes us who we become who we fight with who we date who we block who we unblock i am always going to be in ur life like permanently stamped there okay no returns no refunds no ntg got it kuhoo ? (well cant hear u say it so imma go with yes) 💌💘",
+
+"I will always be there for u when u feel small when u feel insecure when u feel like u are not enough because u ARE more than enough and i will keep reminding u till it enters ur thick head (lovingly) 😌💗",
+
+"You are strong and soft and chaotic and caring and dramatic and kind and annoying and perfect all at the same time and its my fav combination ever like how did i get so lucky to have u",
+
+"I miss our random walks our pointless arguments our stupid inside jokes that literally no one else understands i miss the way we could sit in silence and it wouldnt be awkward at all just peaceful and warm",
+
+"And btw if u ever doubt urself again just remember u have someone here who thinks u are the most gorgeous stunning brilliant creature to ever exist like actually how do ur eyes do that color thing its not normal its art 🎨👀💖",
+
+"I love how we tease each other how we fake fight how we say the meanest things in the cutest tone and then hug it out (mentally because we are dramatic)",
+
+"You are so important to me its actually scary like the thought of not having u around feels wrong and empty and i dont like it so we are just not going to allow that timeline to exist",
+
+"I promise u i will show up for u every single time u need me even if its 3am even if its stupid even if its just to complain about someone breathing too loud i am THERE",
+
+"And also pls never stop being ur weird funny loud self because thats the version of u i fell in love with as my bestfriend and thats the version i want foreverrrrr",
+
+"I love u more than maggi more than bunking classes more than gossip sessions more than sleep (and thats saying something) 💗😭",
+
+"Happy birthday my beautiful chaotic magical girl 💕 may this year give u confidence equal to ur beauty happiness equal to ur kindness and success equal to the way u overreact over small things (which is a lot)",
+
+"Stay with me forever okay no escaping i have already decided our future we are gonna grow old together and still hate dhruv and still ragebait each other and still laugh till our stomach hurts",
+
+"I love u i love u i love u always have always will and thats not changing ever 💖💖💖 now go eat cake and think about how lucky u are to have me 😌🎂💞 (YES IM BEING COCKY BUT U KNOW WHAT U GOT INTO BEFORE BEING MY FRIEND SO THERES THAT NTGS GONNA CHANGE)",
 ];
 
 export const closingText = "I love you. Happy birthday again.";
